@@ -1,0 +1,13 @@
+{
+  "20230827;": {
+    "Name:testOne;": {},
+    "Champions:overload, unstoppable;": {},
+    "Shields:arc, solar;": {}
+  },
+  "20230828;": {
+    "Name:testTwo;": {},
+    "champions:barrier;": {},
+    "Shields:void;": {},
+    "": {}
+  }
+}
