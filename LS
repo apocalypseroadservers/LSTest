@@ -6,24 +6,61 @@
       "shields":"Arc, Solar",
 	  "rewards":"Legs",
       "image":"test"}
-  },
-	"08/29/2023":{
+  
+	,"08/29/2023":{
 		"name":"Extraction",
 		"champions":"Overload, Unstoppable",
 		"shields":"Arc, Void",
 		"rewards":"Arms",
-		"image":"test"
-		},
-	"08/30/2023":{
-	},
-	"08/31/2023":{
-	},
-	"09/01/2023":{
-	},
-	"09/02/2023":{
-	},
-	"09/03/2023":{
-	},
-	"09/04/2023":{
-	},
-	"09/05/2023":"{\n\t}\n\t","09/06/2023":":{\n\t}\n\t\n}"}
+		"image":"test"}
+    
+	,"08/30/2023":{
+		"name":"Extraction",
+		"champions":"Overload, Unstoppable",
+		"shields":"Arc, Void",
+		"rewards":"Arms",
+		"image":"test"	}
+	
+    ,"08/31/2023":{
+		"name":"Extraction",
+		"champions":"Overload, Unstoppable",
+		"shields":"Arc, Void",
+		"rewards":"Arms",
+		"image":"test"	}
+	,"09/01/2023":{
+		"name":"Extraction",
+		"champions":"Overload, Unstoppable",
+		"shields":"Arc, Void",
+		"rewards":"Arms",
+		"image":"test"	}
+	,"09/02/2023":{
+		"name":"Extraction",
+		"champions":"Overload, Unstoppable",
+		"shields":"Arc, Void",
+		"rewards":"Arms",
+		"image":"test"	}
+	,"09/03/2023":{
+		"name":"Extraction",
+		"champions":"Overload, Unstoppable",
+		"shields":"Arc, Void",
+		"rewards":"Arms",
+		"image":"test"	}
+	,"09/04/2023":{
+		"name":"Extraction",
+		"champions":"Overload, Unstoppable",
+		"shields":"Arc, Void",
+		"rewards":"Arms",
+		"image":"test"	}
+	,"09/05/2023":{
+		"name":"Extraction",
+		"champions":"Overload, Unstoppable",
+		"shields":"Arc, Void",
+		"rewards":"Arms",
+		"image":"test"	},
+	"09/06/2023":{
+		"name":"Extraction",
+		"champions":"Overload, Unstoppable",
+		"shields":"Arc, Void",
+		"rewards":"Arms",
+		"image":"test"	}}}
+	
