@@ -63,4 +63,3 @@
 		"shields":"<:damagearc:1145541269339246603> Arc",
 		"rewards":"<:gloves:1097529755835830333> Arms",
 		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Revelation-Lost-Sector-Destiny-2-featured.jpg"	}}}
-	
