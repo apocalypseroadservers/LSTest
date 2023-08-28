@@ -5,62 +5,62 @@
       "champions":"Barrier, Unstoppable",
       "shields":"Arc, Solar",
 	  "rewards":"Legs",
-      "image":"test"}
+      "image":"https://www.blueberries.gg/wp-content/uploads/2022/02/Lost-Sectors-Destiny-2-900p.jpg"}
   
 	,"08/29/2023":{
 		"name":"Extraction",
 		"champions":"Overload, Unstoppable",
 		"shields":"Arc, Void",
 		"rewards":"Arms",
-		"image":"test"}
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/08/Extraction-Lost-Sector-Destiny-2.jpeg"}
     
 	,"08/30/2023":{
 		"name":"Metamorphosis",
 		"champions":"Overload, Unstoppable",
 		"shields":"Arc, Solar",
 		"rewards":"Chest",
-		"image":"test"	}
+		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/02/Metamorphosis-Lost-Sector.jpg?fit=1280%2C720&ssl=1"	}
 	
     ,"08/31/2023":{
 		"name":"K1 Revelation",
 		"champions":"Barrier, Unstoppable",
 		"shields":"Arc",
 		"rewards":"Helmet",
-		"image":"test"	}
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Revelation-Lost-Sector-Destiny-2-featured.jpg"	}
 	,"09/01/2023":{
 		"name":"K1 Communion",
 		"champions":"Overload, Barrier",
 		"shields":"Solar, Void",
 		"rewards":"Legs",
-		"image":"test"	}
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Communion-Lost-Sector-Destiny-2-featured.jpg"	}
 	,"09/02/2023":{
 		"name":"K1 Crew Quarters",
 		"champions":"Overload, Barrier",
 		"shields":"Solar",
 		"rewards":"Arms",
-		"image":"test"	}
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Crew-Quarters-Lost-Sector-Destiny-2-featured.jpg"	}
 	,"09/03/2023":{
 		"name":"Sepulcher",
 		"champions":"Barrier, Unstoppable",
 		"shields":"Arc, Solar",
 		"rewards":"Chest",
-		"image":"test"	}
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/02/Lost-Sectors-Destiny-2-900p.jpg"	}
 	,"09/04/2023":{
 		"name":"Extraction",
 		"champions":"Overload, Unstoppable",
 		"shields":"Arc, Void",
 		"rewards":"Helmet",
-		"image":"test"	}
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/08/Extraction-Lost-Sector-Destiny-2.jpeg"	}
 	,"09/05/2023":{
 		"name":"Metamorphosis",
 		"champions":"Overload, Unstoppable",
 		"shields":"Arc, Solar",
 		"rewards":"Legs",
-		"image":"test"	},
+		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/02/Metamorphosis-Lost-Sector.jpg?fit=1280%2C720&ssl=1"	},
 	"09/06/2023":{
 		"name":"K1 Revelation",
 		"champions":"Barrier, Unstoppable",
 		"shields":"Arc",
 		"rewards":"Arms",
-		"image":"test"	}}}
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Revelation-Lost-Sector-Destiny-2-featured.jpg"	}}}
 	
