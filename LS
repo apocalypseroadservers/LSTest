@@ -2,65 +2,65 @@
   "resonse": {
     "08/28/2023": {
       "name":"Sepulcher",
-      "champions":"Barrier, Unstoppable",
-      "shields":"Arc, Solar",
-	  "rewards":"Legs",
+      "champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
+      "shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
+	  "rewards":"<:boots:1097529710357000304> Legs",
       "image":"https://www.blueberries.gg/wp-content/uploads/2022/02/Lost-Sectors-Destiny-2-900p.jpg"}
   
 	,"08/29/2023":{
 		"name":"Extraction",
-		"champions":"Overload, Unstoppable",
-		"shields":"Arc, Void",
-		"rewards":"Arms",
+		"champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagevoid:1145541196467425361> Void",
+		"rewards":"<:gloves:1097529755835830333> Arms",
 		"image":"https://www.blueberries.gg/wp-content/uploads/2022/08/Extraction-Lost-Sector-Destiny-2.jpeg"}
     
 	,"08/30/2023":{
 		"name":"Metamorphosis",
-		"champions":"Overload, Unstoppable",
-		"shields":"Arc, Solar",
-		"rewards":"Chest",
+		"champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
+		"rewards":"<:chest:1097529731651477556> Chest",
 		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/02/Metamorphosis-Lost-Sector.jpg?fit=1280%2C720&ssl=1"	}
 	
     ,"08/31/2023":{
 		"name":"K1 Revelation",
-		"champions":"Barrier, Unstoppable",
-		"shields":"Arc",
-		"rewards":"Helmet",
+		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc",
+		"rewards":"<:helmet:1097529778350866543> Helmet",
 		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Revelation-Lost-Sector-Destiny-2-featured.jpg"	}
 	,"09/01/2023":{
 		"name":"K1 Communion",
-		"champions":"Overload, Barrier",
-		"shields":"Solar, Void",
-		"rewards":"Legs",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar, <:damagevoid:1145541196467425361> Void",
+		"rewards":"<:boots:1097529710357000304> Legs",
 		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Communion-Lost-Sector-Destiny-2-featured.jpg"	}
 	,"09/02/2023":{
 		"name":"K1 Crew Quarters",
-		"champions":"Overload, Barrier",
-		"shields":"Solar",
-		"rewards":"Arms",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar",
+		"rewards":"<:gloves:1097529755835830333> Arms",
 		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Crew-Quarters-Lost-Sector-Destiny-2-featured.jpg"	}
 	,"09/03/2023":{
 		"name":"Sepulcher",
-		"champions":"Barrier, Unstoppable",
-		"shields":"Arc, Solar",
-		"rewards":"Chest",
+		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
+		"rewards":"<:chest:1097529731651477556> Chest",
 		"image":"https://www.blueberries.gg/wp-content/uploads/2022/02/Lost-Sectors-Destiny-2-900p.jpg"	}
 	,"09/04/2023":{
 		"name":"Extraction",
-		"champions":"Overload, Unstoppable",
-		"shields":"Arc, Void",
-		"rewards":"Helmet",
+		"champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagevoid:1145541196467425361> Void",
+		"rewards":"<:helmet:1097529778350866543> Helmet",
 		"image":"https://www.blueberries.gg/wp-content/uploads/2022/08/Extraction-Lost-Sector-Destiny-2.jpeg"	}
 	,"09/05/2023":{
 		"name":"Metamorphosis",
-		"champions":"Overload, Unstoppable",
-		"shields":"Arc, Solar",
-		"rewards":"Legs",
+		"champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
+		"rewards":"<:boots:1097529710357000304> Legs",
 		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/02/Metamorphosis-Lost-Sector.jpg?fit=1280%2C720&ssl=1"	},
 	"09/06/2023":{
 		"name":"K1 Revelation",
-		"champions":"Barrier, Unstoppable",
-		"shields":"Arc",
-		"rewards":"Arms",
+		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc",
+		"rewards":"<:gloves:1097529755835830333> Arms",
 		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Revelation-Lost-Sector-Destiny-2-featured.jpg"	}}}
 	
