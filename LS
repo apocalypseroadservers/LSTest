@@ -1,65 +1,216 @@
 {
   "resonse": {
-    "08/28/2023": {
+	    "08/28/2023": {
       "name":"Concealed Void",
       "champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
       "shields":"<:damagesolar:1145541271667093565> Solar, <:damagevoid:1145541196467425361> Void",
 	  "rewards":"<:boots:1097529710357000304> Legs",
-      "image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Concealed-Void-Lost-Sector.jpg?fit=1280%2C720&ssl=1"}
+      "image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Concealed-Void-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+    "08/29/2023": {
+      "name":"Sepulcher",
+      "champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
+      "shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
+	  "rewards":"gloves:1097529755835830333> Arms",
+      "image":"https://www.blueberries.gg/wp-content/uploads/2022/02/Lost-Sectors-Destiny-2-900p.jpg"}
   
-	,"08/29/2023":{
+	,"08/30/2023":{
 		"name":"Extraction",
 		"champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
 		"shields":"<:damagearc:1145541269339246603> Arc, <:damagevoid:1145541196467425361> Void",
-		"rewards":"<:gloves:1097529755835830333> Arms",
+		"rewards":"<:chest:1097529731651477556> Chest",
 		"image":"https://www.blueberries.gg/wp-content/uploads/2022/08/Extraction-Lost-Sector-Destiny-2.jpeg"}
     
-	,"08/30/2023":{
+	,"08/31/2023":{
+		"name":"Metamorphosis",
+		"champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
+		"rewards":"<:helmet:1097529778350866543> Helmet",
+		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/02/Metamorphosis-Lost-Sector.jpg?fit=1280%2C720&ssl=1"	}
+	
+    ,"09/01/2023":{
+		"name":"K1 Revelation",
+		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc",
+		"rewards":"<:boots:1097529710357000304> Legs",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Revelation-Lost-Sector-Destiny-2-featured.jpg"	}
+	,"09/02/2023":{
+		"name":"K1 Communion",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar, <:damagevoid:1145541196467425361> Void",
+		"rewards":"gloves:1097529755835830333> Arms",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Communion-Lost-Sector-Destiny-2-featured.jpg"	}
+	,"09/03/2023":{
+		"name":"K1 Crew Quarters",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar",
+		"rewards":"<:chest:1097529731651477556> Chest",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Crew-Quarters-Lost-Sector-Destiny-2-featured.jpg"	}
+	,"09/04/2023":{
+		"name":"Concealed Void",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar, <:damagevoid:1145541196467425361> Void",
+		"rewards":"<:helmet:1097529778350866543> Helmet",
+		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Concealed-Void-Lost-Sector.jpg?fit=1280%2C720&ssl=1"	}
+	,"09/05/2023":{
+		"name":"Sepulcher",
+		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
+		"rewards":"<:boots:1097529710357000304> Legs",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/02/Lost-Sectors-Destiny-2-900p.jpg"	}
+	,"09/06/2023":{
+		"name":"Extraction",
+		"champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagevoid:1145541196467425361> Void",
+		"rewards":"gloves:1097529755835830333> Arms",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/08/Extraction-Lost-Sector-Destiny-2.jpeg"	},
+	"09/07/2023":{
 		"name":"Metamorphosis",
 		"champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
 		"shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
 		"rewards":"<:chest:1097529731651477556> Chest",
-		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/02/Metamorphosis-Lost-Sector.jpg?fit=1280%2C720&ssl=1"	}
-	
-    ,"08/31/2023":{
+		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/02/Metamorphosis-Lost-Sector.jpg?fit=1280%2C720&ssl=1"	},
+	"09/08/2023":{
 		"name":"K1 Revelation",
 		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
 		"shields":"<:damagearc:1145541269339246603> Arc",
 		"rewards":"<:helmet:1097529778350866543> Helmet",
-		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Revelation-Lost-Sector-Destiny-2-featured.jpg"	}
-	,"09/01/2023":{
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Revelation-Lost-Sector-Destiny-2-featured.jpg"},		
+	"09/09/2023":{
 		"name":"K1 Communion",
 		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
 		"shields":"<:damagesolar:1145541271667093565> Solar, <:damagevoid:1145541196467425361> Void",
 		"rewards":"<:boots:1097529710357000304> Legs",
-		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Communion-Lost-Sector-Destiny-2-featured.jpg"	}
-	,"09/02/2023":{
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Communion-Lost-Sector-Destiny-2-featured.jpg"},
+	"09/10/2023":{
 		"name":"K1 Crew Quarters",
 		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
 		"shields":"<:damagesolar:1145541271667093565> Solar",
-		"rewards":"<:gloves:1097529755835830333> Arms",
-		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Crew-Quarters-Lost-Sector-Destiny-2-featured.jpg"	}
-	,"09/03/2023":{
+		"rewards":"gloves:1097529755835830333> Arms",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Crew-Quarters-Lost-Sector-Destiny-2-featured.jpg"},
+	"09/11/2023":{
+		"name":"Concealed Void",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar, <:damagevoid:1145541196467425361> Void",
+		"rewards":"<:chest:1097529731651477556> Chest",
+		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Concealed-Void-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+	"09/12/2023":{
+		"name":"Sepulcher",
+		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
+		"rewards":"<:helmet:1097529778350866543> Helmet",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/02/Lost-Sectors-Destiny-2-900p.jpg"},
+	"09/13/2023":{
+		"name":"Extraction",
+		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagevoid:1145541196467425361> Void",
+		"rewards":"<:boots:1097529710357000304> Legs",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/08/Extraction-Lost-Sector-Destiny-2.jpeg"},
+	"09/14/2023":{
+		"name":"Metamorphosis",
+		"champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
+		"rewards":"gloves:1097529755835830333> Arms",
+		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/02/Metamorphosis-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+	"09/15/2023":{
+		"name":"K1 Revelation",
+		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc",
+		"rewards":"<:chest:1097529731651477556> Chest",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Revelation-Lost-Sector-Destiny-2-featured.jpg"},
+	"09/16/2023":{
+		"name":"K1 Communion",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar, <:damagevoid:1145541196467425361> Void",
+		"rewards":"<:helmet:1097529778350866543> Helmet",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Communion-Lost-Sector-Destiny-2-featured.jpg"},
+	"09/17/2023":{
+		"name":"K1 Crew Quarters",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar",
+		"rewards":"<:boots:1097529710357000304> Legs",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Crew-Quarters-Lost-Sector-Destiny-2-featured.jpg"},
+	"09/18/2023":{
+		"name":"Concealed Void",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar, <:damagevoid:1145541196467425361> Void",
+		"rewards":"gloves:1097529755835830333> Arms",
+		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Concealed-Void-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+	"09/19/2023":{
 		"name":"Sepulcher",
 		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
 		"shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
 		"rewards":"<:chest:1097529731651477556> Chest",
-		"image":"https://www.blueberries.gg/wp-content/uploads/2022/02/Lost-Sectors-Destiny-2-900p.jpg"	}
-	,"09/04/2023":{
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/02/Lost-Sectors-Destiny-2-900p.jpg"},
+	"09/20/2023":{
 		"name":"Extraction",
-		"champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
 		"shields":"<:damagearc:1145541269339246603> Arc, <:damagevoid:1145541196467425361> Void",
 		"rewards":"<:helmet:1097529778350866543> Helmet",
-		"image":"https://www.blueberries.gg/wp-content/uploads/2022/08/Extraction-Lost-Sector-Destiny-2.jpeg"	}
-	,"09/05/2023":{
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/08/Extraction-Lost-Sector-Destiny-2.jpeg"},
+	"09/21/2023":{
 		"name":"Metamorphosis",
 		"champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
 		"shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
 		"rewards":"<:boots:1097529710357000304> Legs",
-		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/02/Metamorphosis-Lost-Sector.jpg?fit=1280%2C720&ssl=1"	},
-	"09/06/2023":{
+		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/02/Metamorphosis-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+	"09/22/2023":{
 		"name":"K1 Revelation",
 		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
 		"shields":"<:damagearc:1145541269339246603> Arc",
-		"rewards":"<:gloves:1097529755835830333> Arms",
-		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Revelation-Lost-Sector-Destiny-2-featured.jpg"	}}}
+		"rewards":"gloves:1097529755835830333> Arms",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Revelation-Lost-Sector-Destiny-2-featured.jpg"},
+	"09/23/2023":{
+		"name":"K1 Communion",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar, <:damagevoid:1145541196467425361> Void",
+		"rewards":"<:chest:1097529731651477556> Chest",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Communion-Lost-Sector-Destiny-2-featured.jpg"},
+	"09/24/2023":{
+		"name":"K1 Crew Quarters",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar",
+		"rewards":"<:helmet:1097529778350866543> Helmet",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Crew-Quarters-Lost-Sector-Destiny-2-featured.jpg"},
+	"09/25/2023":{
+		"name":"Concealed Void",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar, <:damagevoid:1145541196467425361> Void",
+		"rewards":"<:boots:1097529710357000304> Legs",
+		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Concealed-Void-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+	"09/26/2023":{
+		"name":"Sepulcher",
+		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
+		"rewards":"gloves:1097529755835830333> Arms",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/02/Lost-Sectors-Destiny-2-900p.jpg"}.
+	"09/27/2023":{
+		"name":"Extraction",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagevoid:1145541196467425361> Void",
+		"rewards":"<:chest:1097529731651477556> Chest",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/08/Extraction-Lost-Sector-Destiny-2.jpeg"},
+	"09/28/2023":{
+		"name":"Metamorphosis",
+		"champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
+		"rewards":"<:helmet:1097529778350866543> Helmet",
+		"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/02/Metamorphosis-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+	"09/29/2023":{
+		"name":"K1 Revelation",
+		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
+		"shields":"<:damagearc:1145541269339246603> Arc",
+		"rewards":"<:boots:1097529710357000304> Legs",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Revelation-Lost-Sector-Destiny-2-featured.jpg"},
+	"09/30/2023":{
+		"name":"K1 Communion",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar, <:damagevoid:1145541196467425361> Void",
+		"rewards":"gloves:1097529755835830333> Arms",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Communion-Lost-Sector-Destiny-2-featured.jpg"},
+	"10/01/2023":{
+		"name":"K1 Crew Quarters",
+		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
+		"shields":"<:damagesolar:1145541271667093565> Solar",
+		"rewards":"<:chest:1097529731651477556> Chest",
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Crew-Quarters-Lost-Sector-Destiny-2-featured.jpg"}}}
+	
