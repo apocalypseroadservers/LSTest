@@ -182,7 +182,7 @@
 		"champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
 		"shields":"<:damagearc:1145541269339246603> Arc, <:damagesolar:1145541271667093565> Solar",
 		"rewards":"gloves:1097529755835830333> Arms",
-		"image":"https://www.blueberries.gg/wp-content/uploads/2022/02/Lost-Sectors-Destiny-2-900p.jpg"}.
+		"image":"https://www.blueberries.gg/wp-content/uploads/2022/02/Lost-Sectors-Destiny-2-900p.jpg"},
 	"09/27/2023":{
 		"name":"Extraction",
 		"champions":"<:overload:1145541265157542019> Overload, <:pierce:1145541266587787367> Barrier",
